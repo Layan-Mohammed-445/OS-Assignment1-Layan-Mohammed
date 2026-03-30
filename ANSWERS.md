@@ -25,8 +25,8 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 Example from my output:
 ```
-[<img width="593" height="190" alt="image" src="https://github.com/user-attachments/assets/b48f9768-c86a-462d-8c1d-54b1ce294de7" />
-]
+[<img width="593" height="190" alt="output" src="https://github.com/user-attachments/assets/3fe6f350-9c6f-45bd-97bd-e19773dee3bc" />
+ ]
 ```
 P1 executing quantum [4000ms]
 P1 completed quantum 4000ms │ Overall progress: 92%
