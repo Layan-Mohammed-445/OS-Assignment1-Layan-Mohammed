@@ -32,16 +32,24 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
+### Entry 1 - [March 28, 2026, 3:20 PM]
+**What I did**:
+Started the assignment and reviewed the template provided in the file.
+Started the code project and opened it in GitHub and Visual Studio. 
 
-**Details**: 
+**Details**: Read the instructions carefully
+Checked the example format in the document
+Downloaded and Signed up on both GitHub and Visual Studio
+Checked the files and understood the code structure
+Ran the program for the first time
+Planned the work sessions and Noted the main features I had to add.
 
 **Challenges**: 
-
+I had a small problem getting the project to run correctly at the beginning.
 **Solution**: 
-
+I checked the project setup again and fixed the startup settings.
 **Time spent**: 
+35 minutes 
 
 ---
 
